@@ -1,6 +1,6 @@
 # folder_watcher
 
-[![Build](https://github.com/CoolLibs/folder_watcher/actions/workflows/build.yml/badge.svg)](https://github.com/CoolLibs/folder_watcher/actions/workflows/build.yml)
+[![Build](https://github.com/Coollab-Art/folder_watcher/actions/workflows/build.yml/badge.svg)](https://github.com/Coollab-Art/folder_watcher/actions/workflows/build.yml)
 
 **folder_watcher** is a standalone library that listens to changes made to files inside a folder (add, edit or remove).
 
